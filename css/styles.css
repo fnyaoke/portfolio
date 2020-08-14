@@ -42,11 +42,11 @@ label #sign-two{
     display: none;
 }
 #res-menu{
-    
+
     display: none;
 }
 .banner{
-    background: linear-gradient(to right,rgba(5, 252, 231, 0.6),rgba(4, 12, 88, 0.5)), url("images//bg_1.jpg");
+    background: linear-gradient(to right,rgba(5, 252, 231, 0.6),rgba(4, 12, 88, 0.5)), url("https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
     background-size: cover;
     background-position: center center;
     height: 100vh;
@@ -62,4 +62,20 @@ label #sign-two{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.banner-text h2{
+    color: red;
+    margin-top: -140px;
+    font-size: 56px;
+    text-align: center;
+}
+.banner-text b1{
+    color: rgb(0, 0, 0);
+}
+.banner-text p{
+    font-style: italic;
+    text-decoration-style: solid 3px;
+    text-align: center;
+    color: red;
+    font-size: 30px;
 }
