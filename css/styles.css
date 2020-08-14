@@ -1,9 +1,12 @@
-header{
-    background-color: black;
-    background-size: 100vh;
+
+.header{
+    background-image: url(https://images.unsplash.com/photo-1508177065173-e662b1209510?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    background-size: cover;
     text-align: center;
-    padding: 20px;
     color: blanchedalmond;
+}
+img{
+    float: left;
 }
 .class {
     font-size: xx-large;
