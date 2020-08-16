@@ -167,6 +167,12 @@ h5{
     text-align: center;
     padding: 0ch;
 }
+.more li{
+    list-style: none;
+}
+.more {
+    text-align: center;
+}
 footer{
     background-color:darkgreen;
     color: white;
