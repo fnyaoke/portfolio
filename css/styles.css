@@ -167,6 +167,17 @@ h5{
     text-align: center;
     padding: 0ch;
 }
+.more{
+    text-align: center;
+    align-content: center;
+    font-size: inherit;
+}
+.more ul{
+    text-align: center;
+}
+.more ul > li{
+    text-align: center;
+}
 footer{
     background-color:darkgreen;
     color: white;
